@@ -1,0 +1,226 @@
+"HITID","email","Worker","Answer","Date"
+"32L724R85KJ0QFVD7EOETJUH21GIPS","I heard today that Curtis Smith has resigned.  I am sure that both ot you 
+know that Curtis and Jeremy Wong were viewed by users as critical resources 
+for ERMS support.  Even at a stand still, my team had great concern over the 
+rumored loss of Curtis and/or Jeremy.  And with the assumption that Sitara 
+will not go forward for valuation, then ERMS really has become repositioned 
+as one of our key, strategic systems.  There is much to do to ""catch up"", if 
+you will, with changes and enhancements that were put on hold for several 
+years during the Sitara development stage.  And our business continues to 
+grow and change rapidly, requiring responsive enhancements on an on-going 
+basis.   
+
+I would like to get together to discuss the staffing plan for support of ERMS 
+as soon as possible.   We need to understand how day-to-day production 
+support will be managed and how development work will be effectively 
+handled.  
+
+I will ask my assistant to set up a meeting as soon as possible.  ","A1B1JQW3W13ODO","Action Required","2017-09-11 15:49:56 UTC"
+"32XN26MTXYIZSZZZBW616YL1BXYL02","Attached please find the log report for the week of Dec 10-17th, as of Dec 
+12th.  Should you have any questions please feel free to contact me at  ext. 
+54751.","A1B1JQW3W13ODO","Read Later","2017-09-11 15:49:35 UTC"
+"38Z7YZ2SB21LQRWS7R33TOKR7X2IQJ","We have created four additional graphs to be published daily along with the 
+DPR: 
+
+Return on VaR (ROVAR)
+Curve Shift P&L (Delta - Gamma) Sharpe Ratio
+Risk - Return (Large)
+Risk - Return (Small)
+
+All of these graphs deal with the concept of risk-adjusted return.  The 
+markets in which we operate have unlike risk characteristics.  Furthermore, 
+Enron's appetite for risk also differs in each market.  As a result, it is 
+difficult to compare returns in absolute terms.  Therefore, the approach of 
+these graphs is to divide return by a measure of risk, in effect restating 
+return numbers into a standard base (how many dollars we earn for every 
+dollar we put at risk).
+
+
+ For each business unit or commodity group, the ROVAR graph shows an average 
+of daily total P&L divided by an average of daily VaR.  Higher ROVARs 
+indicate better performance (relative to other business units).  For each 
+business unit or commodity group there are two bars: the dark blue on the 
+left shows ROVAR on a 4 week (20 business day) rolling basis, and the light 
+blue on the right shows ROVAR on a 1 week (5 business day) rolling basis.  
+Because of the shorter term, the 1 week ROVAR is more sensitive: it can be 
+quite high or low, and it changes frequently.
+
+
+The Sharpe Ratio graph is very similar in concept; it shows an average of 
+daily curve shift P&L (both delta and gamma) divided by its standard 
+deviation. This Sharpe ratio is uncomplicated by non-trading P&L (like new 
+deals, reserves, and so forth).  Furthermore, whereas VaR is a forward 
+looking statistic (the most we are likely to lose in one day with a given 
+probability), standard deviation is backward looking (the actual volatility 
+of our returns over the period). This graph also has two bars for every 
+business unit or commodity group: a dark brown on the left showing the Sharpe 
+ratio on a 4 week rolling basis, and a light brown on the right showing the 
+ratio on a 1 week basis.
+
+The Curve Shift P&L Sharpe Ratio and the ROVAR graphs complement each other 
+well.  They measure different things, but if our P&L is composed mostly of 
+curve shift, and if our VaR closely predicts curve shift volatility, the two 
+statistics should be very close.
+
+
+Sometimes it is interesting to see the actual magnitude of the P&L relative 
+to the risk.  We therefore put together the Risk - Return graphs.  On the 
+vertical axis, they show 4 week rolling average P&L.  On the horizontal, they 
+show 4 week rolling average VaR.  The various business units are plotted as 
+points on the graphs.  These graphs are closely related to the 4-week ROVARs, 
+in that the vertical value of every point divided by its horizontal value is 
+the business unit's ROVAR (average P&L / average VaR).  Another way of 
+looking at these graphs is that the slope of a line connecting the origin 
+(0,0) with the plotted point of a business unit is its ROVAR.  Books with 
+small risks and returns (< $2 million) are plotted on the ""Small"" graph, and 
+the rest, on the ""Large"".
+
+These graphs are based on the DPR Database that we built to standardize and 
+capture the information that is reported in the DPR.  Most, but not all of 
+the information in the DPR currently flows from the database.  As a result, 
+we do not have ROVARs or Sharpe Ratios for every business unit.  As we 
+continue to set up exports into the database, we will fill in the missing 
+numbers.
+
+We will e-mail you these graphs every day until we can publish them on the 
+intra-net.  Please remember to launch the file in Excel, instead of using the 
+Lotus Notes viewer.  The VaR Limit Usage graphs that we created last week are 
+already on the web.  We hope that you find all of these useful.
+
+Regards,
+Eugenio Perez","A1B1JQW3W13ODO","Read Later","2017-09-11 15:49:47 UTC"
+"3VADEH0UHBWPKTY9CQISXL04BZISPU","
+Sally,  please let me know if you'd like to continue to receive this weekly 
+report and/or you'd like it revised in any way. 
+
+Thank you, 
+Toni Graham
+Human Resources","A1B1JQW3W13ODO","Action Required","2017-09-11 15:49:40 UTC"
+"3AA88CN98O2L5OD2Y459JQ26YA8KYZ","Francisco Luis officially accepted today with a transfer date of February 1, 
+2000.  He will assume a Staff position, in the Risk Controls-Operational 
+department, reporting to Carrie Hollomon.   Please let me know if I can be of 
+further assistance.  
+
+Thanks!
+gf","AKSJ3C5O3V9RB","Read Later","2017-09-11 15:51:14 UTC"
+"3R5LWXWHRZ7R3XR93HYS2K34PNXXG3","Well,
+today (or rather yesterday) it happened.  We have been pushing our limits 
+hard and the makets here have been very volatile.  We had a large increase in 
+North American Natural Gas VAR due to the breaking apart the Rockies/SoCal 
+basis correlation.  This am, we were attempting to get firm numbers on the 
+effect on our corporate limits so that we could provide 
+Jeff/Delainey/Lavorato/Buy/.... the information to make decisions whether or 
+not to reduce positions.  The number was not firm until 11 am houston time.  
+My understanding is that the Houston numbers were all in before 8 am and that 
+we were waiting for London.  While I am sure that there are issues all around 
+and I do not think that anyone Senior in Houston is even aware, let alone 
+prepared to blame, I fear that this will not always be the case.  I think 
+something needs to be changed in our process so that this can be avoided in 
+the future.   
+
+Please do not take this as a nasty-gram.  No one is cc'd or bcc'd.  I just 
+think that it will be deemed unacceptable.
+Any thoughts/comments?
+Ted","AKSJ3C5O3V9RB","Action Required","2017-09-11 15:55:31 UTC"
+"3VZYA8PITNXLQAWEJ9QUP9P4P7Z05U","Rick
+
+Please find attached two presentations on current position/challenges with 
+the Metals group and inventory balances in particular. 
+
+The former outlines the 'Control' view of integration efforts - past, current 
+and urgent future
+The latter is a summarised response to your earlier concerns over inventory 
+
+I look forward to discussing these with you at 9.30am / 15.30 pm ( London ).
+
+Mike","AKSJ3C5O3V9RB","Action Required","2017-09-11 15:55:17 UTC"
+"3IQ9O0AYW5YYI7OKOVXYYTVER41ITX","The following new hire Analysts (commercial side) have been placed in their 
+first rotation:
+
+Analyst  Business Unit     Supervisor
+Alberto Crespo  Commercial Transactions   Chris Helfrich
+Niclas Egmar  Enron Research    Ronnie Chahal
+Aaron Martinsen EES Account Operations & Process  Julian Travis
+Mike Spuriell  EES Account Operations & Process  Julian Travis
+John Weakly  Risk Management for Equity & Debt Trading Bennett Kauffman
+Adrian Woolcock EES Gas Structuring    Debra Merril
+
+Samuel Pak - He came in on the support side, but has been given a commercial 
+role with Global Exploration & Production Steve Harper
+
+Zeina El-Azzi has received an offer from the Commercial Transactions group, 
+but has not yet accepted because she is waiting on an offer from the Middle 
+Eastern Development group.
+ 
+Ben Thomason has received three offers (Capital Structuring, APACHE 
+Transaction Services, and Commercial Transactions)-  He is making a decision 
+by the end of tomorrow.
+
+Rahul Seksaria - He is interviewing with Larry Lawyer's group in ECI tomorrow.
+
+
+
+The following Analysts on the commercial support side have been placed as 
+indicated below:
+Michael Benien  Business Analysis & Reporting   Norman Levine
+Jody Crook  Gas Assets     Steve Venturatos
+Israel Estrada  Global Rate Services    Mary Solmonson
+Sharon Hausinger EES Commercial Risk Management  Barry Vanderhorst
+Jennifer Keith  EES Financial Operations   Patrick Hanes
+Christine Milliner Corporate HR     Suzanne Brown
+Justin O'Malley  EES Gas Commodities    David Draper   
+Adnan Patel  Global Counterparty    Mary Gosnell
+Lauren Schlesinger EES Financial Planning    Matt Culver
+Shirley Sidler  Global Products    Scott Earnest
+Leah Stephens  Global Products    Kevin Sweeney
+George Thomas Business Analysis & Reporting   Jody Pierce
+
+Shilpa Chunchu - interviewing with groups
+Angie Zeman - interviewing with groups
+
+
+The following new hire Associate has been placed as indicated below:
+Russell Dyk  Mid-Markets Trading    Jenn Fraser
+
+Juan Cabrales - He has been extended two offers (Panama group and 
+Structuring).  He is to make decision by Friday.  
+","AKSJ3C5O3V9RB","Read Later","2017-09-11 15:57:42 UTC"
+"3NRZ1LDP7V5ML5KN7IC0TEX7YEIPZW","As requested.","AKSJ3C5O3V9RB","Action Required","2017-09-11 15:58:49 UTC"
+"3A3KKYU7P2GC67I54F01D69UC73MW7","Sally, 
+As I told you last week, I laid a big egg and ""put the cat amongst the 
+pigeons"" as Steve Stock put it.  Phillipe called a meeting with Rick (and 
+me), Debbie Brackett and Steve yesterday to ""clear the air"".  While he 
+pledged to be attentive to the problem (as I articulated), he still focused 
+on fixing process which I fear gets us to where we thought we were as opposed 
+to where we need to be.  I continue to believe that not only are there things 
+just plain broken, but what we have gotten used to as ""acceptable"" is now 
+inadequate.  This includes the ability for ""human"" systems and processes to 
+be automated to avoid stupid downstream data problems as well as improve 
+analytics.  You will be cordially invited to be (another) weekly meeting that 
+both Rick and Phillipe plan to attend to monitor and guide progress.
+Ted","AKSJ3C5O3V9RB","Action Required","2017-09-11 15:59:28 UTC"
+"3MZ3TAMYTKML2SBSK6S3YEUW3J4IRK","Attached below is a compilation of operational and information technology 
+issues that effect the timeliness, effectiveness and accuracy of the Market 
+Risk Management daily analysis.
+
+Daily, we aggregate information regarding the origin of these issues to 
+better diagnose where time, money and resources should be allocated to 
+improve information flow.
+
+Please call me if you have any questions regarding this document.","A166A2M31CW2C7","Neither","2017-09-11 16:01:33 UTC"
+"3MVY4USGB5MX37B5ZVS8OOZSPLNIS8","Sally, at the beginning of the new year, you expressed your desire to have a 
+report developed which captured all new hires for Energy Operations weekly.  
+This report needed to include all transfers in and out of Energy Operations 
+as well.  After speaking to Alexus about your request, she had indicated that 
+she may have a report already developed to meet your needs.  I encouraged her 
+to speak to you regarding any additional details that that may be needed.  
+Alexus agreed to follow up to further assess your needs.  Please let me know 
+how I may help with the process.","A166A2M31CW2C7","Action Required","2017-09-11 16:01:46 UTC"
+"3GL25Y6842TRV7NVEKWNFPN1L99MX0","These guys are using the technology we saw last week from OnExchange.  Amerex 
+called me today to ask us to participate or (if we deemed it necessary) to 
+take the lead in this project.  As always, James has the competitor info 
+database on this stuff.  Please copy him on all material like this.
+
+All the best,
+
+Tom","AKSJ3C5O3V9RB","Action Required","2017-09-11 16:07:42 UTC"
