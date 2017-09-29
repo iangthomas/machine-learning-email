@@ -18,17 +18,17 @@ To create this, I use machine learning to classify emails and developed an iOS m
 
 # Mechanical Turk:
 Contributors were asked to label emails as “Action Required”, “Read Later” or “Neither”. They were given the following prompt “Your name is Sally Beck, these are your emails. You have to decide
-1) if these emails ask you to perform some action, like replying or doing something in real life. Or 2) if the E-Mail can be read later. For example, it just contains general information.”
+1) if these emails ask you to perform some action, like replying or doing something in real life. Or
+2) if the E-Mail can be read later. For example, it just contains general information.”
 
+# Mechanical Truk Question Example
+
+<img width="800" src="https://user-images.githubusercontent.com/13486833/30995570-04d3868a-a470-11e7-9fa8-fdceecb4c853.png">
 
 
 # Dataset Generation
 
 <img width="800" src="https://user-images.githubusercontent.com/13486833/30995348-6d682de2-a46e-11e7-9a41-920fc59e1d3e.jpeg">
-
-# Mechanical Truk Question Example
-
-<img width="800" src="https://user-images.githubusercontent.com/13486833/30995570-04d3868a-a470-11e7-9fa8-fdceecb4c853.png">
 
 
 # Cleaning
