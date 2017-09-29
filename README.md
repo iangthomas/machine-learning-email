@@ -28,6 +28,7 @@ Contributors were asked to label emails as “Action Required”, “Read Later�
 
 # Mechanical Truk Question Example
 
+<img width="800" src="https://user-images.githubusercontent.com/13486833/30995570-04d3868a-a470-11e7-9fa8-fdceecb4c853.png">
 
 
 # Cleaning
