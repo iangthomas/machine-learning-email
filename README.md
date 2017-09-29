@@ -42,6 +42,12 @@ The goal is to minimize the number of false positives for action, thus the key m
 <img width="800" src="https://user-images.githubusercontent.com/13486833/30995429-02273f54-a46f-11e7-8ff9-d6a37408895f.png">
 
 
+
+<img width="800" src="https://user-images.githubusercontent.com/13486833/30996578-af408acc-a476-11e7-82f0-23b6490e6887.jpeg">
+<img width="400" src="https://user-images.githubusercontent.com/13486833/31003223-598cb3ee-a4a3-11e7-8813-7e40b4d4d617.png">
+
+
+
 # Developing an iOS App
 With the advent of iOS 11 and Apple's new Core ML technology, apps can now predict classification labels on-device.
 
