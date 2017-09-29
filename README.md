@@ -13,4 +13,5 @@ To create this, I use machine learning to classify emails and developed an iOS m
 
 
 System Overview
-<img width="600" src="https://user-images.githubusercontent.com/13486833/30995352-709083ca-a46e-11e7-80b6-f69564af1658.jpeg">
+
+<img width="800" src="https://user-images.githubusercontent.com/13486833/30995352-709083ca-a46e-11e7-80b6-f69564af1658.jpeg">
