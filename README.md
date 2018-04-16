@@ -36,7 +36,7 @@ While lots of data cleaning can happen as a result of manipulating vectorizer pa
 
 
 # Creating the Model
-The goal is to minimize the number of false positives for action, thus the key metric is "recall", we want to maximize it. LinearSVC modes had more consistent recall rates for Yes’s and No’s, both in the 70s While Random forest and NB had one recall score in the 60s with another in the 80s. the LinearSVC, with tfidf was selected because it was most consistent, with both recall rates of 75% Furthermore, iOS does not current support NB via sklearn, so it is only shown here for comparison.
+The goal is to minimize the number of false positives for action, thus the key metric is "recall", we want to maximize it. LinearSVC modes had more consistent recall rates for Yes’s and No’s, both in the 70s While Random forest and NB had one recall score in the 60s with another in the 80s. the LinearSVC, with tfidf was selected because it was most consistent, with both recall rates of 75% Furthermore, iOS does not current support NB via sklearn, so it is only used for comparison.
 
 # Developing an iOS App
 With the advent of iOS 11 and Apple's new Core ML technology, apps can now predict classification labels on-device.
